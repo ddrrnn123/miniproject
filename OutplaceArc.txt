@@ -1,0 +1,1 @@
+[{'path': '/X/s', 'name': 'OutplaceArc', 'src': '/X/T', 'dst': '/X/u'}, {'path': '/X/o', 'name': 'OutplaceArc', 'src': '/X/T', 'dst': '/X/e'}, {'path': '/X/O', 'name': 'OutplaceArc', 'src': '/X/U', 'dst': '/X/B'}, {'path': '/X/X', 'name': 'OutplaceArc', 'src': '/X/U', 'dst': '/X/N'}]

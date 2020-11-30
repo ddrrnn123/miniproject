@@ -1,0 +1,8 @@
+[
+  {
+    "id": "Demo",
+    "title": "Demo",
+    "panel": "panels/Demo/DemoPanel",
+    "DEBUG_ONLY": false
+  }
+]

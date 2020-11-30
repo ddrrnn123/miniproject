@@ -1,0 +1,29 @@
+{
+  "components": {
+    "seeds": {
+      "miniproject": {
+        "src": "src/seeds/miniproject"
+      }
+    },
+    "plugins": {
+      "ModelicaCodeGenerator": {
+        "src": "src/plugins/ModelicaCodeGenerator",
+        "test": "test/plugins/ModelicaCodeGenerator"
+      }
+    },
+    "visualizers": {
+      "Demo": {
+        "src": "panels/Demo/DemoPanel",
+        "title": "Demo",
+        "panel": "src/visualizers/panels/Demo",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/Demo"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {},
+    "plugins": {},
+    "visualizers": {}
+  }
+}
