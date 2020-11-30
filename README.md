@@ -8,7 +8,7 @@ Petri-Net is a low-level model, which is used to describe systems. It can quickl
 
 In this studio, a project seed with the Petri-Net metamodel has already created. You can design your example using "composition" tab and create a simulator in "Demo" tab. In "Demo", you can click buttons to see the net classification and refresh the net. You can drag or click the components in the graph for interaction.
 
-The main codes are in\
+The main codes are in 
 (1)src/plugins/ModelicaCodeGenerator/ModelicaCodeGenerator/__init__.py\
 (2)src/visualizers/panels/Demo/DemoControl.js\
 (3)src/visualizers/widgets/Demo/DemoWidget.js
