@@ -14,7 +14,7 @@ The main codes are in
 (3)src/visualizers/widgets/Demo/DemoWidget.js
 
 (1) Get the information from the metamodel example and check the classification. Send all the information to simulator through messages.\
-(2) Create bottons to display the classification and refresh the simulor; Receive the messages and organize the information.\
+(2) Create bottons to display the classification and refresh the simulator; Receive the messages and organize the information.\
 (3) Design the interaction and draw the network.
 
 ## Installation
